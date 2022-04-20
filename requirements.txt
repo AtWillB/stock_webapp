@@ -5,3 +5,4 @@ streamlit
 sklearn
 numpy
 pandas
+tensorflow
