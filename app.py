@@ -13,7 +13,7 @@ end = '2022-01-01'
 st.title("Will's Stock Trend Prediction")
 
 user_input = st.text_input('Endter Stock Ticker', 'AAPL')
-st.subheader('Examples: TSLA, AAPL, PIKE(All these work, some dont)')
+st.subheader('Examples: TSLA, AAPL, RAND(All these work, some dont)')
 df = data_reader.DataReader(user_input,'yahoo',start,end)
 
 #Describing Data
