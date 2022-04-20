@@ -3,3 +3,5 @@ pandas_datareader
 keras
 streamlit
 sklearn
+numpy
+pandas
