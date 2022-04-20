@@ -1,5 +1,5 @@
-matplotlib.pyplot
+matplotlib
 pandas_datareader
-keras.models
+keras
 streamlit
-sklearn.preprocessing
+sklearn
